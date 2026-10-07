@@ -1,0 +1,46 @@
+
+KAVACH SCAM AWARENESS GUIDE
+
+1. OTP and banking scams
+Never share your OTP, banking password, or UPI PIN
+with another person. A caller claiming to be from a
+bank does not automatically prove their identity.
+Verify requests through your bank's official app or
+a contact method you already trust.
+
+2. UPI payment scams
+A UPI PIN is used to authorise payments, not to
+receive money. Be cautious if someone asks you to
+enter your PIN or scan a QR code to receive a refund
+or prize.
+
+3. Suspicious links
+Check the actual domain before opening a link.
+Shortened URLs, IP-address URLs, and lookalike
+domains deserve extra caution, but are not always
+malicious. When in doubt, open the official website
+yourself instead of using the supplied link.
+
+4. Remote access scams
+Be cautious if an unexpected caller asks you to
+install a remote-access app or share your screen.
+Never give an unknown person control of your
+device or access to banking sessions.
+
+5. Prize and refund scams
+Be suspicious of unexpected prizes or refunds that
+require an upfront payment. Verify the offer through
+the organisation's official channels before paying
+or sharing information.
+
+6. Job scams
+Be cautious about unexpected job offers that demand
+registration fees, interview fees, or payments to
+guarantee employment. Independently verify the
+employer and the vacancy.
+
+7. General safety
+A warning indicator does not prove a message is a
+scam, and the absence of indicators does not prove
+it is safe. Do not share passwords, OTPs, or PINs.
+When uncertain, pause and verify independently.
