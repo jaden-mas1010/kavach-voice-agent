@@ -1,5 +1,6 @@
 
 
+from email_headers import analyze_email
 import os
 from groq import Groq
 import re
@@ -346,7 +347,7 @@ if __name__ == "__main__":
     print("Type 'exit' to end the chat.\n")
 
     while True:
-        user_input = input("You (type or /voice): ").strip()
+        user_input = input("You (type or /voice or /email): ").strip()
 
         if user_input.lower() == "/voice":
             message = listen_to_speech()
@@ -363,6 +364,18 @@ if __name__ == "__main__":
 
         if not message:
               continue
+        
+        # Email security analysis
+        if message.lower().startswith("/email "):
+            file_path = message[7:].strip().strip('"')
+
+            try:
+                analyze_email(file_path)
+
+            except OSError as error:
+                print("Unable to read email:", error)
+
+            continue
 
         # Check the message for scam indicators
         result = scam_check(message)

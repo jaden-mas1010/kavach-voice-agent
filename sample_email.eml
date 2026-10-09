@@ -1,0 +1,9 @@
+From: Bank Support <support@bank-example.test>
+Reply-To: help@scam-example.test
+Return-Path: <bounce@scam-example.test>
+Subject: Urgent account verification
+Authentication-Results: mx.example.test; spf=fail; dkim=none; dmarc=fail
+Received: from mail1.example.test by mx.example.test
+Received: from mail2.example.test by mail1.example.test
+
+Your bank account is blocked. Verify your account immediately.
